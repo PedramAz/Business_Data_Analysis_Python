@@ -21,7 +21,7 @@ print(path)
 # In[73]:
 
 
-os.chdir("C:/Users/azimz/Desktop/Technical_Practice_working files/Python_Pandas/Pandas-Data-Science-Tasks-master/SalesAnalysis")
+os.chdir("SalesAnalysis")
 
 
 # #### Task-1_Merge the 12 months of sales data into a single CSV file 
@@ -215,34 +215,3 @@ plt.bar(Time_hours, City_sales)
 plt.show()
 plt.plot(Time_hours, City_sales)
 plt.show()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
